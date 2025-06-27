@@ -1,0 +1,31 @@
+{
+  "GUID": "2078c8dc-b6a7-478f-abff-15fa766b5f0e",
+  "ConfigVersion": 6,
+  "TargetJob": 0,
+  "Author": "Aki",
+  "Name": "Aki'sTESTTimeLine",
+  "TreeRoot": {
+    "DisplayName": "Start",
+    "Childs": [],
+    "GUID": "9a82c476-e246-4dad-bd82-a3b0c6199af1",
+    "Important": false,
+    "Color": {
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 0.4,
+      "W": 1.0
+    },
+    "Id": 1,
+    "Enable": true,
+    "Remark": ""
+  },
+  "ExposedVars": [],
+  "ExposedVarDesc": "",
+  "OpenerScript": "",
+  "Note": "这是一个测试云时间轴bro",
+  "TerritoryTypeId": 666,
+  "TerritoryWeatherId": 666,
+  "TargetAcrAuthor": "AkiPRO",
+  "ClearCustomed": false,
+  "LogsAddress": ""
+}
